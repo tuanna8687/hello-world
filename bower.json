@@ -1,0 +1,23 @@
+{
+  "name": "hello-bower",
+  "homepage": "https://github.com/tuanna8687/hello-world",
+  "authors": [
+    "tuanna8687 <tuanna.isoft@gmail.com>"
+  ],
+  "description": "a example bower package",
+  "version": "0.0.1",
+  "main": "",
+  "keywords": [
+    "hello",
+    "bower"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "html"
+  ]
+}
